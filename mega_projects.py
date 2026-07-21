@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ===========================
 # Settings
 # ===========================
-data = "https://your-portfolio-link.com"   # Change this link 
+data = "https://your link here .com"   # Change this link 
 name = "Linkdin"                            # Your name or initials
 
 # ===========================
