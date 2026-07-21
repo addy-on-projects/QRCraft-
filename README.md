@@ -1,2 +1,2 @@
 # QRCraft-
- A Python QR Code Generator &amp; Customizer that creates high-quality QR codes with customizable colors and personalized center text, powered by the qrcode and Pillow libraries.
+QR craft is a feature-rich Python application that creates high-quality QR codes with advanced customization options, including color modification and personalized center text integration. Leveraging the qrcode and Pillow libraries, it combines QR code generation with image processing techniques to produce visually appealing, professional, and reliable QR codes suitable for personal branding, business, and digital sharing.
